@@ -55,5 +55,6 @@ composer update
 ```
 
 ### Login User
-username: admin@mycampus.app / user1@mycampus.app / user2@mycampus.app
-password: password
+* username: admin@mycampus.app / user1@mycampus.app / user2@mycampus.app
+* password: password
+
