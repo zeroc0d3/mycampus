@@ -53,3 +53,7 @@ If you have change from branch laravel 5.1 to laravel 5.2 you need to update the
 ```
 composer update
 ```
+
+### Login User
+username: admin@mycampus.app / user1@mycampus.app / user2@mycampus.app
+password: password
