@@ -1,6 +1,6 @@
 ## MyCampus RestAPI
 
-MyCampus is a simple restapi project for academic information system, using Dingo and JWT for authentication. Features cover:
+MyCampus RestAPI is a simple restapi project for academic information system, build on the top of Laravel PHP Framework using Dingo and JWT for authentication. Features cover:
 * Campus profile
 * Faculty (fakultas)
 * Concentration (jurusan)
@@ -9,7 +9,7 @@ MyCampus is a simple restapi project for academic information system, using Ding
 * Courses (mata kuliah)
 * Semester Courses (mata kuliah semester)
 * Study Planing (rencana studi)
-* Result Study (hasil studi) 
+* Study Result (hasil studi) 
 
 ## Installation
 
@@ -57,4 +57,3 @@ composer update
 ### Login User
 * username: admin@mycampus.app / user1@mycampus.app / user2@mycampus.app
 * password: password
-
