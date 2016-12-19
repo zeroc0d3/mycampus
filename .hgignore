@@ -1,3 +1,5 @@
+syntax: glob
+
 # Compiled source #
 ###################
 *.com
@@ -36,33 +38,33 @@ Thumbs.db
 
 # Temporary storage #
 ######################
-/storage/framework/cache
-/storage/framework/session
-/storage/logs
-/public/storage
-/system/cache
-/system/logs
-/test_unit
+storage/framework/cache/*
+storage/framework/session/*
+storage/logs/*
+public/storage
+system/cache/*
+system/logs/*
+test_unit/*
 
 # Repositories #
 ################
-/node_modules
-/bower_components
-/public/node_modules
-/public/bower_components
-/vendor
-/system
+node_modules/*
+bower_components/*
+public/node_modules/*
+public/bower_components/*
+vendor/*
+system/*
 
 # Configuration files #
 #######################
 .env
-/.project
-/nbproject
-/.idea
+.project/*
+nbproject/*
+.idea/*
 Homestead.yaml
 Homestead.json
-/.git
-/.hg
+.git/*
+.hg/*
 .htaccess
 set_permission*.sh
 access.log
