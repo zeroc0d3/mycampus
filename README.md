@@ -57,3 +57,13 @@ composer update
 ### Login User
 * username: admin@mycampus.app / user1@mycampus.app / user2@mycampus.app
 * password: password
+
+
+### Test Case API (PostmanBDD)
+* Install [Postman](http://www.getpostman.com/)
+* Import postman collection in `docs` folder
+* Run the test api from each scenario
+
+
+### Learn More 
+You can review how to running automation test case from our repository [here](https://github.com/zeroc0d3/json-postman)
